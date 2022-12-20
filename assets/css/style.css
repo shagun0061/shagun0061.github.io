@@ -1185,8 +1185,7 @@ section .container {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 .skill-logo > img {
-  height: 6rem;
-  width: 6rem;
+  width: 100%;
 }
 .skill-logo > .styled {
   width: 200%;
@@ -1196,6 +1195,8 @@ section .container {
 }
 .skill-logo > .aws {
   width: 200%;
+  height: 3rem;
+
 }
 .skill-logo > .heroku {
   width: 150%;
